@@ -77,3 +77,4 @@ pip install tensorflow keras opencv-python matplotlib seaborn numpy pillow
 
 ## Acknowledgments
 This project is inspired by the article "Facial Expression Recognition Using KERAS" and utilizes the FER-2013 dataset available on Kaggle. Special thanks to the contributors of these resources for their valuable work.
+note:trainging and test data isnt available in the project you can find it on the web or ask for it .
